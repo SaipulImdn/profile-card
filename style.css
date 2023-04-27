@@ -52,7 +52,7 @@
 }
 
 .card .links img:hover{
-    background: rgba(14,40,126,1);
+    background: rgb(17, 146, 17);
        box-shadow: 0 0 10px rgb(169, 205, 235);
 }
 
@@ -74,5 +74,5 @@
     background-color: white;
     font-weight: medium;
     box-shadow: 0 0 10px rgb(169, 205, 235);
-    color: black;
+    color: rgb(17, 146, 17);
 }
