@@ -9,7 +9,7 @@
     width: 100%;
     height: 100vh;
     background: rgb(6,16,77);
-background: linear-gradient(90deg, rgba(6,16,77,1) 30%, rgba(14,40,126,1) 52%, rgba(4,96,156,1) 83%);
+    background-color: rgb(17, 146, 17);
     /* background-image: url(https://cdn.idntimes.com/content-images/post/20180415/sahara-9a6b6d1884588fab924fcd2aebcf4d62.jpg); */
     background-position: center;
     background-size: cover;
