@@ -27,7 +27,7 @@ useEffect(() => {
       <div className={`text-color-white py-3.5 md:py-2.5 fixed top-0 w-full z-50 ${navbar ? "backdrop-blur-md" : "backdrop-blur-none"}`}>
         <nav className='container mx-auto w-5/6 flex flex-wrap items-center justify-between'>
             <div className="navbar-brand text-3xl font-bold">
-                Zak!
+                SaipulImdn
             </div>
             <div className='flex items-center md:order-1'>
                 <button>
