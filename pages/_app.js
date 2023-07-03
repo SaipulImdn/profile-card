@@ -7,7 +7,7 @@ export default function App({ Component, pageProps }) {
     <>
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta property="og:title" content="Portfolio Achmad Zaki" key="title" />
+        <meta property="og:title" content="Portfolio Syaiful Imanudin" key="title" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Navbar/>
